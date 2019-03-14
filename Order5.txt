@@ -1,0 +1,7 @@
+Bill of order 5
+cola costs 22
+cola costs 22
+sandwich costs 300
+test costs 10
+total: 0
+observations ceva

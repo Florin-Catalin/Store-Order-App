@@ -1,0 +1,5 @@
+Bill of order 2
+cola costs 22
+cola costs 22
+total: 40
+observations nimic

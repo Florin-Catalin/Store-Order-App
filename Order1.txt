@@ -1,0 +1,5 @@
+Bill of order 1
+paine alba costs 10
+cola costs 22
+total: 20
+observations nimic

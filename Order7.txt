@@ -1,0 +1,3 @@
+Bill of order 7
+total: 100
+observations nimic
